@@ -140,9 +140,6 @@ lib/
 ## Instalacao
 
 ```bash
-# Navegar ate o projeto
-cd ~/Documentos/mobilevim
-
 # Instalar dependencias
 flutter pub get
 
@@ -165,16 +162,6 @@ flutter build apk --release
 ```dart
 static const String githubClientId = 'SEU_CLIENT_ID';
 static const String githubClientSecret = 'SEU_CLIENT_SECRET';
-```
-
-### Instalacao no Waydroid
-
-```bash
-# Build o APK
-flutter build apk --release --target-platform android-x64
-
-# Inicie o Waydroid e instale
-waydroid app install build/app/outputs/flutter-apk/app-release.apk
 ```
 
 ## Permissoes Android
