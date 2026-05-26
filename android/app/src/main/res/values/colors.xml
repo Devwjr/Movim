@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#121212</color>
+    <color name="navigation_bar_color">#121212</color>
+    <color name="background_color">#121212</color>
+    <color name="primary_color">#7C4DFF</color>
+    <color name="primary_dark_color">#651FFF</color>
+    <color name="accent_color">#00B0FF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+</resources>
