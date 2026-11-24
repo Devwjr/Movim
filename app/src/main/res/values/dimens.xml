@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="raio_cartao">12dp</dimen>
+    <dimen name="espacamento_pequeno">8dp</dimen>
+    <dimen name="espacamento_normal">16dp</dimen>
+    <dimen name="espacamento_grande">24dp</dimen>
+    <dimen name="altura_item">220dp</dimen>
+    <dimen name="largura_item">140dp</dimen>
+</resources>

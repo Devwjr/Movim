@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Showflix</string>
+    <string name="label_catalogo">Catálogo</string>
+    <string name="hint_busca">Filmes, séries, atores...</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_assistir">Assistir Agora</string>
+    <string name="detalhes_sinopse">Sinopse</string>
+    <string name="detalhes_elenco">Elenco</string>
+    <string name="detalhes_recomendados">Recomendados</string>
+    <string name="erro_carregar">Erro ao carregar conteúdo</string>
+    <string name="sem_resultados">Nenhum resultado encontrado</string>
+</resources>

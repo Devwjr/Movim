@@ -1,0 +1,9 @@
+<resources>
+    <color name="background">#0a0a0a</color>
+    <color name="surface">#141414</color>
+    <color name="card">#1a1a1a</color>
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#b3b3b3</color>
+    <color name="accent">#ff3b30</color>
+    <color name="divider">#333333</color>
+</resources>
